@@ -43,4 +43,10 @@ S = \frac{1}{p - 1} (X - \bar{x})^T W(X - \bar{x})
 where $X \in R^{p \times J}$ is the data matrix and $\bar{x}$ is the sample mean vector. $W$ is the spatial weight matrix, where the (k, h) element of matrix, $w_{k,h}$ quantifies the spatial dependency between the k-th and h-th pixels.
 
 
+## Simulation Analysis
+ST-PCA requires a smaller number of PCs to explain a given % of the overall variability. And moving window updating is more parsimonious. The method is suitable to deal with detection and localization of anomalies in video image data (where an underlying process dynamics is present). And it is suitable for anomalies that are clustered in space and auto-correlated in time.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/60518209/219696878-3832b6ea-6ba8-4796-8512-1ee40a94efa0.png" width="430" />
+  <img src="https://user-images.githubusercontent.com/60518209/219696929-3bf619b4-48a7-40b9-bca4-74377e11debb.png" width="430" />
+</p>
