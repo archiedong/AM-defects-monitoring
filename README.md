@@ -22,9 +22,13 @@ The data is coming from high-speed camera (300 fps).
 </p>
 
 ## Methodology
+1. Temporal Principla Component Analysis: Unfolding (from images to vectors), and apply principal component analysis to image data with no segmentation or edge detection operation needed.
+2. Spatial Principla Component Analysis. 
 <p align="center">
-  <img src = "https://user-images.githubusercontent.com/60518209/219688834-6504ac18-c1d1-40cd-b458-1bfb03a274eb.png" width = "430" />
-  <img src="https://user-images.githubusercontent.com/60518209/219688858-6cbebc35-bc98-4139-b0a3-7f86873bfb14.png" width="430" />
+  <img src = "https://user-images.githubusercontent.com/60518209/219688834-6504ac18-c1d1-40cd-b458-1bfb03a274eb.png" width = "230" />
+  <img src="https://user-images.githubusercontent.com/60518209/219690131-7f482536-25c0-48fd-b5a6-6e7e8dd32870.png" width="530" />
 </p>
+
+
 
 
