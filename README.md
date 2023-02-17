@@ -11,4 +11,7 @@ The defects (hotspots) are shown in the following pictures.
 
 The data is coming from high-speed camera (300 fps). 
 
-![align = "center"](https://user-images.githubusercontent.com/60518209/219547021-15e9f4cb-dda4-4565-9dbc-138c839e1258.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/60518209/219547021-15e9f4cb-dda4-4565-9dbc-138c839e1258.png" width="230" />
+</p>
+
