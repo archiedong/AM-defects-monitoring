@@ -7,12 +7,12 @@ The limited stability and repeatability of metal AM processes represent a major 
 ![](https://user-images.githubusercontent.com/60518209/219544576-de91286f-33e5-432c-b949-0d05435bcf41.mp4)
 
 The defects (hotspots) are shown in the following pictures.
-![Picture1](https://user-images.githubusercontent.com/60518209/219546708-b6863677-6971-45d3-9f5d-0dfda6348cca.png)
-
-The data is coming from high-speed camera (300 fps). 
-
 <p align="center">
   <img src = "https://user-images.githubusercontent.com/60518209/219547544-4effa63d-c011-46a0-97d2-734d9ea50288.mp4" width = "630" />
-  <img src="https://user-images.githubusercontent.com/60518209/219547021-15e9f4cb-dda4-4565-9dbc-138c839e1258.png" width="630" />
+  <img src="https://user-images.githubusercontent.com/60518209/219546708-b6863677-6971-45d3-9f5d-0dfda6348cca.png" width="630" />
 </p>
 
+The data is coming from high-speed camera (300 fps). 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/60518209/219547021-15e9f4cb-dda4-4565-9dbc-138c839e1258.png" width="630" />
+</p>
