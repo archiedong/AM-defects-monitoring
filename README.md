@@ -29,6 +29,11 @@ The data is coming from high-speed camera (300 fps).
   <img src="https://user-images.githubusercontent.com/60518209/219690131-7f482536-25c0-48fd-b5a6-6e7e8dd32870.png" width="530" />
 </p>
 
+Use of Hotelling’s $𝑇^2$ as a synthetic index to describe the information content along the most relevant components of the video image data within 𝐽 observed frames. Alarm rule based on k-means clustering of $T^2(m, n)$. When process is IC: k = 2 clusters are expected (background and normal melting). When the process is OOC, addtional clusters correspond to defective areas (hotspots).
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/60518209/219692322-d9108cb1-c279-4e07-bd8f-d5f2f210d8eb.png" width="630" />
+</p>
 
 
 
