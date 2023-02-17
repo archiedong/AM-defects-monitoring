@@ -20,3 +20,11 @@ The data is coming from high-speed camera (300 fps).
 <p align="center">
   <img src="https://user-images.githubusercontent.com/60518209/219547021-15e9f4cb-dda4-4565-9dbc-138c839e1258.png" width="630" />
 </p>
+
+## Methodology
+<p align="center">
+  <img src = "https://user-images.githubusercontent.com/60518209/219688834-6504ac18-c1d1-40cd-b458-1bfb03a274eb.png" width = "630" />
+  <img src="https://user-images.githubusercontent.com/60518209/219688858-6cbebc35-bc98-4139-b0a3-7f86873bfb14.png" width="630" />
+</p>
+
+
