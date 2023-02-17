@@ -39,5 +39,7 @@ Use of Hotelling’s $𝑇^2$ as a synthetic index to describe the information c
 ```math
 S = \frac{1}{p - 1} (X - \bar{x})^T W(X - \bar{x})
 ```
+where $X \in R^{p \times J$ is the data matrix and $\bar{x}$ is the sample mean vector. $W$ is the spatial weight matrix, where the (k, h) element of matrix, $w_{k,h}$ quantifies the spatial dependency between the k-th and h-th pixels.
+
 
 
