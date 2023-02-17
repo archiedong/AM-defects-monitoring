@@ -6,7 +6,7 @@ The limited stability and repeatability of metal AM processes represent a major 
 
 ![](https://user-images.githubusercontent.com/60518209/219544576-de91286f-33e5-432c-b949-0d05435bcf41.mp4)
 
-The defects (hotspots) are shown in the following pictures.
+A hot-spot is a local over-heating caused by a dimished heat flux towards surrounding material, shown in the pictures
 <p align="center">
   <img src = "https://user-images.githubusercontent.com/60518209/219547544-4effa63d-c011-46a0-97d2-734d9ea50288.mp4" width = "630" />
   <img src="https://user-images.githubusercontent.com/60518209/219546708-b6863677-6971-45d3-9f5d-0dfda6348cca.png" width="630" />
