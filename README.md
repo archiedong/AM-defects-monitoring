@@ -37,7 +37,7 @@ Use of Hotelling’s $𝑇^2$ as a synthetic index to describe the information c
 3. Spatially weighted T-mode PCA: incorporating pixel spatial correlation into the projection entailed by the T-mode PAC to preserve the spatial depency and enhance the identification of local defects. The weighted sample variance-covariance matrix is
 
 ```math
-S = \frac{1}{p - 1} (X - \bar{x})\top W(X - \bar{x})
+S = \frac{1}{p - 1} (X - \bar{x})^T W(X - \bar{x})
 ```
 
 
