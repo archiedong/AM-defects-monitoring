@@ -6,5 +6,5 @@ The limited stability and repeatability of metal AM processes represent a major 
 
 
 
-![](https://user-images.githubusercontent.com/60518209/219544576-de91286f-33e5-432c-b949-0d05435bcf41.mp4)
+![width = "400"](https://user-images.githubusercontent.com/60518209/219544576-de91286f-33e5-432c-b949-0d05435bcf41.mp4)
 
