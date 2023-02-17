@@ -1,5 +1,4 @@
-<a href="https://youtu.be/YTl2wdyGfww" target="_blank">
-     
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YTl2wdyGfww/0.jpg)](http://www.youtube.com/watch?v=YTl2wdyGfww "laser additive manufacturing")
 
 # AM_defects_monitoring
 In situ multivariate monitoring methods for selective laser melting additive manufacturing process based on images.
