@@ -23,7 +23,7 @@ The data is coming from high-speed camera (300 fps).
 
 ## Methodology
 1. Temporal Principla Component Analysis: Unfolding (from images to vectors), and apply principal component analysis to image data with no segmentation or edge detection operation needed.
-2. Spatial Principla Component Analysis. 
+2. Spatial Principla Component Analysis.
 <p align="center">
   <img src = "https://user-images.githubusercontent.com/60518209/219688834-6504ac18-c1d1-40cd-b458-1bfb03a274eb.png" width = "230" />
   <img src="https://user-images.githubusercontent.com/60518209/219690131-7f482536-25c0-48fd-b5a6-6e7e8dd32870.png" width="530" />
@@ -34,6 +34,7 @@ Use of Hotelling’s $𝑇^2$ as a synthetic index to describe the information c
 <p align="center">
   <img src="https://user-images.githubusercontent.com/60518209/219692322-d9108cb1-c279-4e07-bd8f-d5f2f210d8eb.png" width="630" />
 </p>
-
+3. Spatially weighted T-mode PCA: incorporating pixel spatial correlation into the projection entailed by the T-mode PAC to preserve the spatial depency and enhance the identification of local defects. The weighted sample variance-covariance matrix is
+$$ S = \frac{1}{p - 1} (X - \bar{x})\top W(X - \bar{x})$$
 
 
