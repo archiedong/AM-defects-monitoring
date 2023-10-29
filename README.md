@@ -45,7 +45,7 @@ where $X \in R^{p \times J}$ is the data matrix and $\bar{x}$ is the sample mean
 ## Validation
 <p align="center">
   <img src = "https://github.com/archiedong/AM-defects-monitoring/assets/60518209/b0aa4731-1ee3-4128-a2bf-43fe173260f8.mp4" width = "630" />
-  <img src = "https://github.com/archiedong/AM-defects-monitoring/assets/60518209/a68fd342-b289-4b58-ad30-771ac6f6f231.gif" width = "630" />
+  <img src = "https://github.com/archiedong/AM-defects-monitoring/assets/60518209/a68fd342-b289-4b58-ad30-771ac6f6f231.gif" width = "430" />
 
 </p>
 
